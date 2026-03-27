@@ -11,8 +11,6 @@ I sit at the intersection of **Artificial Intelligence and Finance** — a combi
 
 With **1,500+ structured LLM evaluations** completed for production AI systems, I specialise in making AI outputs safer, more accurate, and more aligned with real human needs. My finance background (Barclays + BCom in International Accounting & Finance) means I bring domain expertise that pure engineers often lack.
 
-I don't just evaluate AI — I understand *what good looks like* in financial contexts: compliance language, payment workflows, risk reasoning, and factual accuracy in high-stakes environments.
-
 ---
 
 ## 🔍 What I Do
@@ -29,23 +27,38 @@ I don't just evaluate AI — I understand *what good looks like* in financial co
 
 ## 🚀 Featured Project
 
-### 🏦 [AI Finance Agent — Evaluation & Prompt Engineering Toolkit](#)
+### 🏦 AI Finance Agent — Evaluation & Prompt Engineering Toolkit
 > *Designing and evaluating prompts for AI agents operating in financial contexts*
 
-A hands-on project where I:
 - Designed **15+ finance-domain prompts** covering payments, compliance, and risk
 - Evaluated AI responses using a structured rubric (hallucination, bias, accuracy, safety)
 - Documented findings and failure patterns across different LLM outputs
 - Built reusable evaluation templates for finance AI use cases
 
-**Skills used:** Prompt Engineering · LLM Evaluation · RLHF · Finance Domain Knowledge
+### 🏦 AI Finance Agent- from scratch
+ - Here's what I'm bringing to this:
+
+🎓 BCom (Hons) International Accounting & Finance — MIT Pune
+🏦 Operations Analyst — Barclays (SWIFT payments, compliance)
+🤖 Advance AI Data Trainer — Invisible Technologies (1,500+ LLM evaluations)
+
+For a long time these felt like 3 separate chapters of my life.
+
+Now I'm combining all 3 into one project.
+
+What I'm building:
+🧾 Invoice Reconciliation Agent
+🏥 Insurance Claims Reconciliation
+📝 Automated Credit Memo Builder
+📈 Mid-term Budget Forecasting
+📄 Annual Report Analyzer with Q&A
 
 ---
 
 ## 🛠️ Skills & Tools
 
 **AI & LLM**
-`Prompt Engineering` `LLM Evaluation` `RLHF` `Hallucination Detection` `Bias Assessment` `AI Safety` `NLP` `Responsible AI` `Model Alignment`
+`Prompt Engineering` `LLM Evaluation` `RLHF` `Hallucination Detection` `Bias Assessment` `AI Safety` `NLP` `Responsible AI`
 
 **Finance**
 `SWIFT MT103/MT202` `IBAN` `International Payments` `Risk Assessment` `Compliance` `Financial Planning`
@@ -62,22 +75,11 @@ A hands-on project where I:
 
 ---
 
-## 📈 What I'm Working On
-
-- 🔨 Building an **AI Finance Agent Evaluation Toolkit** (this repo!)
-- 📚 Deepening expertise in **Responsible AI frameworks** for financial services
-- 🌐 Connecting with teams building AI products in **fintech and banking**
-
----
-
 ## 🤝 Let's Connect
 
-I'm actively looking for roles in:
-- AI Operations / AI Quality Analyst
-- LLM Evaluator / AI Data Trainer
-- AI + Finance domain specialist roles
+I'm actively looking for roles in **AI Operations | AI Quality Analyst | LLM Evaluator | AI + Finance**
 
-📩 **rituverma1969a@gmail.com** | [LinkedIn](https://linkedin.com/in/ritu-verma-/)
+📩 rituverma1969a@gmail.com | [LinkedIn](https://linkedin.com/in/ritu-verma-/)
 
 ---
 
